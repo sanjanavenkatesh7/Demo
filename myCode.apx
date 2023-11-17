@@ -1,1 +1,2 @@
-system.debug('Hello');
+int number=10;
+system.debug('Hello'+number);
